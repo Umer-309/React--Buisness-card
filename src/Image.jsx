@@ -3,7 +3,7 @@ import React from "react"
 export default function Image(props) {
     return (
         <header className="header">
-            <img className="layout--image" src="../public/buisnessCard--image.png" />
+            <img className="layout--image" src="./A/buisnessCard--image.png" />
         </header>
     )
 }
