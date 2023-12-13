@@ -14,7 +14,7 @@ export default function App() {
       job="Frontend Developer"
       src="#"
       email="unisar309@gmail.com"
-      linkedIn="https://www.linkedin.com/in/ume-ron-10050/"
+      linkedIn="https://www.linkedin.com/in/umer-nisar/"
       />
       <About />
       <Footer
